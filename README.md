@@ -5,4 +5,4 @@ Notebooks are organized in the following order:
 1. scrape
 2. clean
 3. EDA
-4. modeling
+4. model
